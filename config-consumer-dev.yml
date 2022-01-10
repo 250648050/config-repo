@@ -3,4 +3,4 @@ info:
 name:
   Saul
 words:  'God bless me'
-food: '${cipher}781527c3229585868c4f015ce65cd175aa99f0aecffb8f351ccde1ad3bd4f385'
+food: '{cipher}781527c3229585868c4f015ce65cd175aa99f0aecffb8f351ccde1ad3bd4f385'
